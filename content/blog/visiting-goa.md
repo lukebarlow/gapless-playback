@@ -5,4 +5,4 @@ subtitle: CMS Testing
 cover: /assets/profile.jpg
 tags: 'travel, india, goa'
 ---
-How quickly does this update go through?
+Second update
